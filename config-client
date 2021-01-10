@@ -1,2 +1,2 @@
 limit-service.maximum=198
-config-client.minimum=9
+limit-service.minimum=9
