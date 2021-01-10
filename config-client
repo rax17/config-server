@@ -1,2 +1,3 @@
-maximum=198
-minimum=9
+  
+property-file.name=dev name
+property-file.description= dev description
